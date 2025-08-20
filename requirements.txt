@@ -1,0 +1,10 @@
+streamlit
+pyodbc
+pandas
+streamlit_dynamic_filters
+datetime
+matplotlib
+seaborn
+streamlit_option_menu
+plotly.express
+streamlit_card
